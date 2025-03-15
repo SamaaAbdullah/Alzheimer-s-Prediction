@@ -1,5 +1,5 @@
 # Alzheimer-s-Prediction
-A machine learning model 
+A machine learning model designed to predict the severity of Alzheimer’s disease
 
 # Project Description
 Alzheimer’s disease is a progressive brain disorder that affects memory and thinking skills. This project builds a machine learning model to predict the severity of Alzheimer’s disease based on patient data, including MRI measurements and cognitive test results. The model is trained using exploratory data analysis (EDA), feature engineering, and classification algorithms.
