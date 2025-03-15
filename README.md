@@ -14,4 +14,12 @@ Features: Includes cognitive test scores, MRI scan data, age, gender, and other 
 - Data Preprocessing (Encoding, Missing Values, Correlation Analysis)  
 - Machine Learning Models (Logistic Regression, SVM, KNN, Decision Tree, Random Forest, v)  
 - Model Evaluation (Accuracy, Precision, Recall, F1-score)
-- 
+
+
+## How to Run the Project
+1. Clone the repository:  
+   `git clone https://github.com/SamaaAbdullah/Alzheimer-s-Prediction.git`
+2. Install required dependencies:  
+   `pip install -r requirements.txt`
+3. Run the Jupyter Notebook for analysis and model training:  
+   `jupyter notebook Alzheimer’s_Prediction.ipynb`
